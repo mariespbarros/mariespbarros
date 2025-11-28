@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá! Eu sou a Maria Eduarda Barros! Tenho 22 anos, sou natural de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP – Faculdade de Informática e Administração Paulista. Sou apaixonada por tecnologia e motivada a criar soluções que unam criatividade, funcionalidade e boa experiência para o usuário.
+Olá! Me chamo Maria Eduarda Barros! Tenho 22 anos, sou natural de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas na FIAP – Faculdade de Informática e Administração Paulista. Sou apaixonada por tecnologia e motivada a criar soluções que unam criatividade, funcionalidade e boa experiência para o usuário.
 
 💻 Sobre mim
 

@@ -1,4 +1,4 @@
-## Maria Eduarda Barros
+## 👩🏻‍💻 Maria Eduarda Barros
 
 **`Desenvolvedora FullStack`**
 

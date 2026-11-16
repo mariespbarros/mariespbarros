@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:17px}
+.cur{animation:bl 1s steps(1) infinite} @keyframes bl{50%{opacity:0}}</style>
+<rect x="1" y="1" width="998" height="118" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<text x="30" y="48"><tspan fill="#39d353">maria@github</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">exit</tspan></text>
+<text x="30" y="82"><tspan fill="#8b949e">&gt; </tspan><tspan fill="#39d353">obrigada pela visita!</tspan><tspan fill="#8b949e">  volte sempre :)</tspan></text>
+<rect x="397" y="67" width="10" height="19" fill="#c9d1d9" class="cur" transform="translate(40,0)"/>
+<text x="970" y="82" text-anchor="end" fill="#8b949e" font-size="13">[processo finalizado com código 0]</text>
+</svg>

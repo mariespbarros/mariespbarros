@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="360" viewBox="0 0 570 360">
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace;font-size:14px}
+.ln{opacity:0;animation:ln .35s ease-out forwards}
+@keyframes ln{from{opacity:0;transform:translateX(-5px)}to{opacity:1;transform:none}}
+</style>
+<rect x="1" y="1" width="568" height="358" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H557 a12 12 0 0 1 12 12 V40 H1Z" fill="#161b22"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f57"/><circle cx="40" cy="20" r="6" fill="#febc2e"/><circle cx="58" cy="20" r="6" fill="#28c840"/>
+<rect x="1" y="40" width="568" height="34" fill="#161b22"/>
+<rect x="1" y="40" width="170" height="34" fill="#0d1117"/><rect x="1" y="40" width="170" height="2" fill="#ffa657"/>
+<text x="16" y="62" fill="#3572a5" font-size="12" font-weight="700">PY</text><text x="38" y="62" fill="#c9d1d9" font-size="13">sobre_mim.py</text>
+<text x="190" y="62" fill="#8b949e" font-size="13">robo.ino</text>
+<rect x="1" y="74" width="568" height="1" fill="#30363d"/>
+<text x="22" y="104" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">1</text>
+<text x="52" y="104" class="ln" style="animation-delay:0.30s" xml:space="preserve"><tspan fill="#58a6ff">maria</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
+<text x="22" y="127" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">2</text>
+<text x="52" y="127" class="ln" style="animation-delay:0.55s" xml:space="preserve"><tspan fill="#79c0ff">    "cargo"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Dev Full Stack"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="22" y="150" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">3</text>
+<text x="52" y="150" class="ln" style="animation-delay:0.80s" xml:space="preserve"><tspan fill="#79c0ff">    "foco"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Back-end"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Front-end"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"IA"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Robótica"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="173" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">4</text>
+<text x="52" y="173" class="ln" style="animation-delay:1.05s" xml:space="preserve"><tspan fill="#79c0ff">    "stack"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Python"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"JavaScript"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"C++"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="196" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">5</text>
+<text x="52" y="196" class="ln" style="animation-delay:1.30s" xml:space="preserve"><tspan fill="#79c0ff">    "estudando"</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"Machine Learning"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"APIs"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+<text x="22" y="219" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">6</text>
+<text x="52" y="219" class="ln" style="animation-delay:1.55s" xml:space="preserve"><tspan fill="#79c0ff">    "hardware"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Arduino"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="22" y="242" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">7</text>
+<text x="52" y="242" class="ln" style="animation-delay:1.80s" xml:space="preserve"><tspan fill="#79c0ff">    "disponivel"</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#58a6ff">True</tspan><tspan fill="#c9d1d9">,</tspan></text>
+<text x="22" y="265" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">8</text>
+<text x="52" y="265" class="ln" style="animation-delay:2.05s" xml:space="preserve"><tspan fill="#c9d1d9">}</tspan></text>
+<text x="22" y="288" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">9</text>
+<text x="52" y="288" class="ln" style="animation-delay:2.30s" xml:space="preserve"><tspan fill="#c9d1d9"></tspan></text>
+<text x="22" y="311" fill="#8b949e" font-size="13" text-anchor="end" opacity=".6" transform="translate(16,0)">10</text>
+<text x="52" y="311" class="ln" style="animation-delay:2.55s" xml:space="preserve"><tspan fill="#8b949e"># </tspan><tspan fill="#ffa657">TODO: </tspan><tspan fill="#8b949e">ensinar o robô a desviar de bugs</tspan></text>
+<path d="M1 330 H569 V347 a12 12 0 0 1 -12 12 H13 a12 12 0 0 1 -12 -12Z" fill="#1f6feb"/>
+<text x="14" y="349" fill="#fff" font-size="12">⎇ main</text>
+<text x="86" y="349" fill="#fff" font-size="12">✓ 0 bugs</text>
+<text x="556" y="349" fill="#fff" font-size="12" text-anchor="end">UTF-8   Python</text>
+</svg>
